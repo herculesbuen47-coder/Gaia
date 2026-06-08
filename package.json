@@ -1,0 +1,14 @@
+{
+  "name": "blackflash-bot",
+  "version": "1.0.0",
+  "description": "Discord bot que detecta rolagens de Rollem e aplica Black Flash.",
+  "main": "blackflash-bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node blackflash-bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}

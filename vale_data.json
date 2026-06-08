@@ -1,0 +1,107 @@
+{
+  "300719203965599744": {
+    "stage": 3,
+    "choices": [
+      {
+        "stage": 1,
+        "choice": "A"
+      },
+      {
+        "stage": 2,
+        "choice": "A"
+      },
+      {
+        "stage": 3,
+        "choice": "A"
+      }
+    ],
+    "char_counts": {
+      "Mirela": 2,
+      "Arthur": 2,
+      "Lyra": 1,
+      "Elena": 1
+    },
+    "attributes": {
+      "apego_emocional": 2,
+      "tendencia_obsessiva": 4,
+      "medo_da_verdade": 0,
+      "sensibilidade_paranormal": 4,
+      "instinto_racional": 2,
+      "tendencia_autodestrutiva": 1,
+      "necessidade_de_controle": 2,
+      "atracao_pelo_desconhecido": 3
+    },
+    "awaiting": false,
+    "result": {
+      "character": "Mirela",
+      "dominant_attributes": [
+        "tendencia_obsessiva",
+        "sensibilidade_paranormal",
+        "atracao_pelo_desconhecido"
+      ],
+      "attributes": {
+        "apego_emocional": 2,
+        "tendencia_obsessiva": 4,
+        "medo_da_verdade": 0,
+        "sensibilidade_paranormal": 4,
+        "instinto_racional": 2,
+        "tendencia_autodestrutiva": 1,
+        "necessidade_de_controle": 2,
+        "atracao_pelo_desconhecido": 3
+      }
+    }
+  },
+  "564462570312957952": {
+    "stage": 3,
+    "choices": [
+      {
+        "stage": 1,
+        "choice": "C"
+      },
+      {
+        "stage": 2,
+        "choice": "D"
+      },
+      {
+        "stage": 3,
+        "choice": "B"
+      }
+    ],
+    "char_counts": {
+      "Noah": 1,
+      "Arthur": 1,
+      "Elena": 1,
+      "Mirela": 2,
+      "Lyra": 1
+    },
+    "attributes": {
+      "apego_emocional": 2,
+      "tendencia_obsessiva": 3,
+      "medo_da_verdade": 1,
+      "sensibilidade_paranormal": 4,
+      "instinto_racional": 2,
+      "tendencia_autodestrutiva": 1,
+      "necessidade_de_controle": 2,
+      "atracao_pelo_desconhecido": 3
+    },
+    "awaiting": false,
+    "result": {
+      "character": "Mirela",
+      "dominant_attributes": [
+        "sensibilidade_paranormal",
+        "tendencia_obsessiva",
+        "atracao_pelo_desconhecido"
+      ],
+      "attributes": {
+        "apego_emocional": 2,
+        "tendencia_obsessiva": 3,
+        "medo_da_verdade": 1,
+        "sensibilidade_paranormal": 4,
+        "instinto_racional": 2,
+        "tendencia_autodestrutiva": 1,
+        "necessidade_de_controle": 2,
+        "atracao_pelo_desconhecido": 3
+      }
+    }
+  }
+}

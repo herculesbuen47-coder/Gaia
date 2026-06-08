@@ -1,0 +1,89 @@
+{
+  "732693355028283555": {
+    "chapter": 1,
+    "block": 7,
+    "awaiting_choice": false,
+    "finished": true,
+    "attributes": {
+      "razao": 0,
+      "emocao": 1,
+      "vazio": 0,
+      "investigacao": 2,
+      "acao": 0
+    },
+    "choices": [
+      {
+        "chapter": 1,
+        "block": 3,
+        "choice": "A"
+      }
+    ]
+  },
+  "123": {
+    "chapter": 1,
+    "block": 2,
+    "awaiting_choice": false,
+    "finished": false,
+    "attributes": {
+      "razao": 0,
+      "emocao": 0,
+      "vazio": 0,
+      "investigacao": 0,
+      "acao": 0
+    },
+    "choices": []
+  },
+  "999999": {
+    "chapter": 1,
+    "block": 2,
+    "awaiting_choice": false,
+    "finished": false,
+    "attributes": {
+      "razao": 0,
+      "emocao": 0,
+      "vazio": 0,
+      "investigacao": 0,
+      "acao": 0
+    },
+    "choices": []
+  },
+  "123456": {
+    "chapter": 1,
+    "block": 1,
+    "awaiting_choice": false,
+    "finished": false,
+    "attributes": {
+      "razao": 0,
+      "emocao": 0,
+      "vazio": 0,
+      "investigacao": 0,
+      "acao": 0
+    },
+    "choices": []
+  },
+  "300719203965599744": {
+    "chapter": 2,
+    "block": 10,
+    "awaiting_choice": true,
+    "finished": false,
+    "attributes": {
+      "razao": 0,
+      "emocao": 2,
+      "vazio": 1,
+      "investigacao": 1,
+      "acao": 2
+    },
+    "choices": [
+      {
+        "chapter": 1,
+        "block": 3,
+        "choice": "B"
+      },
+      {
+        "chapter": 1,
+        "block": 7,
+        "choice": "C"
+      }
+    ]
+  }
+}
